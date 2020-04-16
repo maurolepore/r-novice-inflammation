@@ -1,9 +1,9 @@
 ---
-name: Dataset
-about: Request a dataset
+name: Lesson
+about: Adapt, review, and record a lesson
 title: ''
-labels: dataset
-assignees:
+labels: lesson
+assignees: 
 
 ---
 
